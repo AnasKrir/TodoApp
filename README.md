@@ -35,7 +35,7 @@ TodoApp est une application mobile Android développée en Java qui permet aux u
 - **ViewModel** : Communication entre UI et Repository
 - **View** : Activités et Fragments (XML UI + logique)
 
----
+----
 
 
 
