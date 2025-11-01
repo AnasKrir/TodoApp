@@ -1,6 +1,13 @@
 # 📱 TodoApp – Application Android de gestion de tâches
-
+---
 TodoApp est une application mobile Android développée en Java qui permet aux utilisateurs de **gérer facilement leurs tâches personnelles**. Elle adopte l'architecture **MVVM**, utilise **Room** pour la persistance locale, et offre une expérience utilisateur fluide.
+
+<!-- Plateforme & Langage -->
+![Android](https://img.shields.io/badge/Platform-Android-brightgreen)
+![Java](https://img.shields.io/badge/Language-Java-orange)
+![Android%20Studio](https://img.shields.io/badge/IDE-Android%20Studio-0A7E07)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 
 ---
 
@@ -55,25 +62,34 @@ TodoApp/
 
 ## ✅ Lancer le projet
 
-1. Cloner le projet :
-   ```bash
+### 1. Cloner le projet son fork :
+   ```
    git clone https://github.com/TON_USER/TodoApp.git
-   
-2. Ouvrir avec Android Studio
+   ```
+### 2. Ouvrir avec Android Studio
 
-3. Lancer l'application sur un émulateur ou appareil physique
+### 3. Lancer l'application sur un émulateur ou appareil physique
 
-🔒 Sécurité
-Mots de passe hashés localement (niveau de sécurité basique)
+#### 🔒 Sécurité <br/>
+- Mots de passe hashés localement (niveau de sécurité basique)
+- Données stockées uniquement localement (aucune API distante)
 
-Données stockées uniquement localement (aucune API distante)
+#### 📌 Améliorations futures <br/>
+📡 Synchronisation cloud (Firebase, REST API)<br/>
+🔔 Notifications de rappel<br/>
+📊 Statistiques des tâches<br/>
 
-📌 Améliorations futures
-📡 Synchronisation cloud (Firebase, REST API)
 
-🔔 Notifications de rappel
+---
 
-📊 Statistiques des tâches
+ ## 📄 Licence
+
+Projet sous licence MIT. <br/>
+✅ Libre d’utiliser, modifier, distribuer.
+
+© 2025 — KRIR Anas & EL YOURI Adam
+
+---
 
 
 
