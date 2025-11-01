@@ -40,7 +40,7 @@ TodoApp est une application mobile Android développée en Java qui permet aux u
 
 
 ## 📂 Structure du projet
-
+```
 TodoApp/
 ├── app/
 │ ├── java/com/example/todoapp/
@@ -49,7 +49,7 @@ TodoApp/
 │ │ ├── viewmodel/
 │ │ └── ui/
 │ └── res/layout/
-
+```
 
 ---
 
