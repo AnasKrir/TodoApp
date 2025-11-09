@@ -11,6 +11,18 @@ TodoApp est une application mobile Android développée en Java qui permet aux u
 
 ---
 
+## 📑 Sommaire
+1. [🚀 Fonctionnalités](#-fonctionnalités)
+2. [🛠️ Technologies utilisées](#️-technologies-utilisées)
+3. [🧱 Architecture MVVM](#-architecture-mvvm)
+4. [📂 Structure du projet](#-structure-du-projet)
+5. [✅ Lancer le projet](#-lancer-le-projet)
+6. [🔒 Sécurité](#-sécurité)
+7. [📌 Améliorations futures](#-améliorations-futures)
+8. [📄 Licence](#-licence)
+
+---
+
 ## 🚀 Fonctionnalités
 
 - 🔐 Authentification : inscription et connexion d'utilisateurs
